@@ -1,3 +1,9 @@
+---
+title: career-conversation
+app_file: app.py
+sdk: gradio
+sdk_version: 6.6.0
+---
 # Career Conversation
 
 This project for career conversation with me Juniardy Setiowidayoga using Python, Gradio, and OpenRouter.
